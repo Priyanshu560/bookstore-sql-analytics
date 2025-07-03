@@ -12,13 +12,6 @@ Tools & Technology
 MySQL
 SQL scripts
 
-How to run
-
-Download or clone this repository
-Open bookstore.sql in MySQL Workbench or any SQL client
-Execute the script to create tables and see the queries
-Check output or extend the project
-
 What I learned
  
 Practical SQL for data analysis
